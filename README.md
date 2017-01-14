@@ -1,4 +1,3 @@
 # hello-world
-learning of repository
 
-Hello, it is me, the Technical Millenial. Technology has made a huge impact on the world around us and I think it's important to learn how to utilize it to the best of our ability.
+Hello, it is me, the Technical Millenial. Born in the 90's but most of my important young life events happened in the early 00's.
